@@ -12,7 +12,7 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
-    background-color: #eee;
+    background-color: #FFFFFF;
 }
 
 header * {
@@ -42,21 +42,19 @@ section {
     background-attachment: fixed;
 }
 
-#home .profile-img {
-    width: 300px;
-    border-radius: 50%;
-}
-
 footer {
     text-align: center;
-    padding: 50px;
+    padding: 30px;
+    background: #444444;
+    height: 20px;
+    color: #FFFFFF;
 }
 
 #home h1 {
     font-size: 3em;
 }
 
-section h2, h3, h6 {
+section h2, h3, h6, h7 {
     font-size: 2.5em;
 }
 
@@ -66,16 +64,17 @@ header a {
 }
 
 #home {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('greenleaves.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.9),rgba(255,255,255,0.9)), url('Images/Trees.jpg');
 }
 
 #facts {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://imagefromwebpossiblyunsplash.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.9),rgba(255,255,255,0.9)), url('Images/Pollution.jpg');
 }
 
 #solution {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://imagefromwebpossiblyunsplash.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('Images/Ocean.jpg');
 }
+
 #orgs {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://imagefromwebpossiblyunsplash.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('Images/Sunset.jpg');
 }
