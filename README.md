@@ -12,50 +12,60 @@ As you start planning your composition, consider: What have you been working on,
 See if any terms or images come to mind when you think of your subject, then work back and forth from image to word and back.
 
 ## Generative constraints
-_This is last year's starting point; we'll discuss and update in class when you've produced a preview, as has been our usual process._
+<!-- _This is last year's starting point; we'll discuss and update in class when you've produced a preview, as has been our usual process._ -->
+_Updated after [lesson 21](https://benmiller314.github.io/cdm2021spring/plans/lesson-21) on 2021-04-01_
 
 **Baseline criteria**
 For a minimum grade of B, all projects for this unit must:
 
-* Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention
-* Include at least 2-3 navigable html locations (multiple pages, or multiple scrolling locations on the same page)
-* Have a clear mode of navigation among the pages (no dead ends)
-*	Include a sitewide css stylesheet (i.e. an organized visual theme)
-*	Include at least one legally useable image, with alt text
-*	Successfully display locally in a web browser
-*	Credit all assets correctly, including attribution (creator names) where required
+<ul><li>Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention.</li>
+<li>Include at least 2-3 navigable html locations (multiple pages, or multiple scrolling locations on the same page)</li>
+<li>Have a clear mode of navigation among the pages (no dead ends)</li>
+<li>Include a sitewide css stylesheet (i.e. an organized visual theme)</li>
+<li>Include at least one legally useable image, with alt text</li>
+<li>Successfully display locally in a web browser</li>
+<li>For all of the above, argue in the reflection why you did what you did – or what you would do if you had more time</li>
+<li>Use meaningful commit messages that say what’s changing (or even why)</li>
+<li>Credit all assets correctly, including attribution (creator names) where required</li>
+</ul>
 
 
 **Aspirational inspirations**
 To target (but not guarantee) a grade above a B, the best projects for this unit may...
 
 * Media Files
-  -	Include playable media (music, video)
+  -	Include playable media: <code>&lt;audio&gt;</code>,  <code>&lt;video&gt;</code>, <code>&lt;iframe&gt;</code>
   -	Use many images, laid out in a clear pattern (e.g. grid, alternating left/right)
   -	Optimize image filetypes, resolutions, and file sizes for faster loading
-  -	Make or modify your own graphics using GIMP, etc
-
-* Coding
-  -	Use advanced navigation, e.g. drop-down menu, tabs, or sticky nav bar
-  -	Condense your CSS stylesheet to the best of your ability
-  -	Use Jekyll (built into GitHub Pages; see [Resources page](https://benmiller314.github.io/cdm2021spring/resources#web-frameworks)) to minimize repetition in your HTML through templates and variables
-  -	Use JavaScript
-  -	Use a web framework to build your website (angular, react, etc. but also bootstrap, skeleton, etc, depending on your level)
-
-* Audience Engagement
-  -	Use best practices for accessible design (see [W3's Four Principles](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head) and the [WAVE web accessibility evaluation tool](http://wave.webaim.org))
-  -	Load site publicly over the internet (e.g. with GitHub Pages)
-  -	Have a clear, consistent theme for your website’s content
+  -	Make or modify your own multimedia content (e.g. graphics, audio, video)
+  - Have a system to display other sorts of media files from the browser (docs, pdfs, etc)
 
 * Dynamism
-  -	Use responsive design (e.g. @media queries, Flexbox, Grid) to dynamically resize elements based on viewport width
+  -	Use responsive design (e.g. <code>@media</code> queries, <code>flex-wrap</code>, <code>auto-fill</code>, etc) to dynamically resize elements based on viewport width
   -	Animate HTML elements via JavaScript (e.g. image carousel) or CSS (e.g. :hover / :focus events)
   -	Add interactivity via JavaScript (e.g. on-click events) or other ways to receive information from site visitors (e.g. mailto: links, forms)
   -	Include a loadable alternate stylesheet / theme (e.g. dark mode, high-contrast) if you can explain why it’s helpful in your reflection (e.g. does it make the site more accessible? Is it a print stylesheet?)
 
+* Coding
+  - Use Flexbox or Grid (or Float) layouts
+  -	Use advanced navigation, e.g. drop-down menu, tabs, or sticky nav bar
+  -	Condense your CSS stylesheet to the best of your ability
+  -	Use Jekyll (built into GitHub Pages; see [Resources page](https://benmiller314.github.io/cdm2021spring/resources#web-frameworks)) to minimize repetition in your HTML through templates and variables
+  -	Use a web framework to build your website (angular, react, etc. but also bootstrap, skeleton, etc, depending on your level)
+  -	Use JavaScript for anything at all
+  - Add comments, whitespace, and other formatting to code to make it more readable
+
+* Audience Engagement
+  -	Use best practices for accessible design (see [W3's Four Principles](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head) and the [WAVE web accessibility evaluation tool](http://wave.webaim.org))
+  - Design for mobile devices (e.g. with <code>@media</code>)
+  -	Load site publicly over the internet (e.g. with GitHub Pages)
+  -	Have a clear, consistent theme for your website’s content
+  - Apply visual unit knowledge about fonts and how they convey which message or how certain fonts pair together
+
 * Reflection
-  -	Use meaningful commit messages that say what’s changing (or even why), especially if that’s new to you
   -	Make a clear argument in your reflection as to why you met enough of the aspirational criteria to be stretching the abilities you came in with
+  - Justify the website's structure for its intended purpose / audience
+  - (For all of the above, argue in the reflection why you did what you did – or what you would do if you had more time)
 
 
 
