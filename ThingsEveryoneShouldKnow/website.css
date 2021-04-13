@@ -28,8 +28,15 @@ header li {
     margin-left: 20px;
 }
 
+ul {
+  list-style-type: circle;
+}
+ol {
+  list-style-type: upper-roman;
+}
+
 section {
-    height: 100vh;
+    height: 115vh;
     border: 1px solid black;
     display: flex;
     justify-content: center;
@@ -54,7 +61,7 @@ footer {
     font-size: 3em;
 }
 
-section h2, h3, h6, h7 {
+section h2 {
     font-size: 2.5em;
 }
 
@@ -77,4 +84,12 @@ header a {
 
 #orgs {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('Images/Sunset.jpg');
+}
+@font-face {
+    font-family: 'allerregular';
+    src: url('aller_rg-webfont.woff2') format('woff2'),
+         url('aller_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
