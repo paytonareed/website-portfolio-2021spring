@@ -1,7 +1,7 @@
 body {
     margin: 0;
     margin-top: 50px;
-    font-family: sans-serif;
+    font-family: "Georgia", serif;
 }
 
 header {
@@ -84,12 +84,4 @@ header a {
 
 #orgs {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('Images/Sunset.jpg');
-}
-@font-face {
-    font-family: 'allerregular';
-    src: url('aller_rg-webfont.woff2') format('woff2'),
-         url('aller_rg-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
 }
