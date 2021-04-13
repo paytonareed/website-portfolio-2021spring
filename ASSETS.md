@@ -5,3 +5,5 @@ Assets List
 * [Planet Earth (South and North America) painted by watercolor](https://unsplash.com/photos/znhEe1cbbQE) by [Elena Mozhvilo](https://unsplash.com/@miracleday) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
 * [Industrial winter landscape](https://unsplash.com/photos/W3y2crFkVIs) by [Maxim Tolchinskiy](https://unsplash.com/@shaikhulud) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
 * [Running Out of Time](https://github.com/paytonareed/visual-argument-2021spring/blob/master/ClimateClock.png) by [Payton Reed](https://github.com/paytonareed) sourced from myself
+* [Better World Shopper Image](https://betterworldshopper.org/) - meets the Four Factors for Fair Use (image not edited, used for spread of public knowledge, only using image, image is used to benefit company)
+* [Plastic: An Environmental Tragedy](https://www.ted.com/talks/jerrick_ng_plastic_an_environmental_tragedy) by Jerrick Ng for [TEDxYouth](https://www.ted.com/) under TED attribution requirements (Use of TED link, link to TED.com, unedited full video used)
